@@ -13,4 +13,7 @@ df = pd.read_csv('data29.csv')
 df.loc[0:9]**
 
 4) df.dtypes
+(https://prnt.sc/sj7f6f)
+
+
 
