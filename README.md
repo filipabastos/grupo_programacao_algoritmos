@@ -12,10 +12,9 @@ DICIONÁRIO DE DADOS
 df = pd.read_csv('data29.csv')
 df.loc[0:9]**
 
-4) df.dtypes
-![grupo_dtypes.PNG](https://github.com/filipabastos/grupo_programacao_algoritmos/blob/master/grupo_dtypes.PNG)
 
 
+##![grupo_dtypes.PNG](https://github.com/filipabastos/grupo_programacao_algoritmos/blob/master/grupo_dtypes.PNG)
 
 
 
