@@ -13,6 +13,7 @@ df = pd.read_csv('data29.csv')
 df.loc[0:9]**
 
 4) df.dtypes
+![Alt text](/relative/path/to/img.jpg?raw=true "grupo_dtypes.PNG")
 
 
 
