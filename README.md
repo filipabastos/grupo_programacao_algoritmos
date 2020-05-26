@@ -1,5 +1,5 @@
 # grupo_programacao_algoritmos
-Grupo de Trabalho formado por: Filipa Bastos, Isabela Almeida, Vitor Sousa
+Grupo de Trabalho formado por: Filipa Bastos, Isabela Almeida, Victor Sousa
 
 A
 1) Fontes de dados: https://data.telangana.gov.in/dataset/demographics
