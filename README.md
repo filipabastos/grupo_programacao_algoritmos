@@ -2,17 +2,13 @@
 Grupo de Trabalho formado por: Filipa Bastos, Isabela Almeida, Victor Sousa
 
 **A**
-1) Fontes de dados: https://data.telangana.gov.in/dataset/demographics
+**1)** Fontes de dados: https://data.telangana.gov.in/dataset/demographics
 
-2) CONTEXTO: O documento selecionado foi extraído do censo de 2011 da Índia, e refere-se a todos os distritos de Telangana mostra estatísticas básicas do número de homens, mulheres, proporção de sexo (mulheres por 1000 homens), população rural, população urbana, população rural (%), população urbana (%) e famílias.
+**2)** CONTEXTO: O documento selecionado foi extraído do censo de 2011 da Índia, e refere-se a todos os distritos de Telangana mostra estatísticas básicas do número de homens, mulheres, proporção de sexo (mulheres por 1000 homens), população rural, população urbana, população rural (%), população urbana (%) e famílias.
 
 DICIONÁRIO DE DADOS:
 
 ![dicionário1.png](https://github.com/filipabastos/grupo_programacao_algoritmos/blob/master/dicion%C3%A1rio1.png)
-
-**3) Código que carrega o conjunto de dados e que mostra as dez primeiras linhas:
-df = pd.read_csv('data29.csv')
-df.loc[0:9]**
 
 
 
