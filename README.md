@@ -7,6 +7,7 @@ A
 2) CONTEXTO: O documento selecionado foi extraído do censo de 2011 da Índia, e refere-se a todos os distritos de Telangana mostra estatísticas básicas do número de homens, mulheres, proporção de sexo (mulheres por 1000 homens), população rural, população urbana, população rural (%), população urbana (%) e famílias.
 
 DICIONÁRIO DE DADOS
+![dicionário
 
 **3) Código que carrega o conjunto de dados e que mostra as dez primeiras linhas:
 df = pd.read_csv('data29.csv')
