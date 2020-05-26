@@ -8,7 +8,7 @@ Grupo de Trabalho formado por: Filipa Bastos, Isabela Almeida, Victor Sousa
 
 DICIONÁRIO DE DADOS:
 
-![dicionário.png](https://github.com/filipabastos/grupo_programacao_algoritmos/blob/master/dicion%C3%A1rio.png)
+![dicionário1.png](https://github.com/filipabastos/grupo_programacao_algoritmos/blob/master/dicion%C3%A1rio1.png)
 
 **3) Código que carrega o conjunto de dados e que mostra as dez primeiras linhas:
 df = pd.read_csv('data29.csv')
